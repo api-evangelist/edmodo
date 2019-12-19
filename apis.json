@@ -1,0 +1,74 @@
+{
+    "name": "Edmodo",
+    "description": "Edmodo is an easy way to get your students connected so they can safely collaborate, get and stay organized, and access assignments, grades, and school messages.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1324-edmodo.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "marketplaces",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/edmodo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Edmodo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1324-edmodo.jpg",
+            "humanURL": "http:\/\/www.edmodo.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/edmodo-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/appsapi.edmodo.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.edmodo.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds2.feedburner.com\/edmodoblog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/edmodo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/edmodo"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.edmodo.com\/platform\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@edmodo.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/edmodo"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/edmodo"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.edmodo.com"
+        }
+    ]
+}
