@@ -1,0 +1,5 @@
+# Edmodo
+
+Edmodo is a company surfaced as a portfolio company of union-square-ventures and added to the API Evangelist network as a stub for enrichment. Sector: education. This profile is a lead awaiting the enrichment pipeline.
+
+Backed by: union-square-ventures — https://edmodo.com
