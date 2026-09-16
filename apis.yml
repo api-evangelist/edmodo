@@ -23,12 +23,12 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/edmodo.png
 name: Edmodo
-description: 'Edmodo was an education technology company that operated a K-12 social learning network
-  and learning management platform connecting teachers, students, and parents, and at its peak ran a
-  developer platform and app store for third-party education apps. It was acquired by NetDragon in 2018
-  and the service was shut down in September 2022. Surfaced as a portfolio company of union-square-ventures
-  and added to the API Evangelist network. As of this enrichment pass the edmodo.com domain resolves only
-  to a parked lander page and exposes no live developer, API, or documentation surface.'
+description: Edmodo was an education technology company that operated a K-12 social learning network and
+  learning management platform connecting teachers, students, and parents, and at its peak ran a developer
+  platform and app store for third-party education apps. It was acquired by NetDragon in 2018 and the
+  service was shut down in September 2022. Surfaced as a portfolio company of union-square-ventures and
+  added to the API Evangelist network. As of this enrichment pass the edmodo.com domain resolves only
+  to a parked lander page and exposes no live developer, API, or documentation surface.
 url: https://raw.githubusercontent.com/api-evangelist/edmodo/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -38,7 +38,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-09-15'
 tags:
 - Company
 - Education
@@ -63,3 +63,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-status: defunct
